@@ -2,9 +2,9 @@ const mysql = require('mysql');
 const util = require('util');
 
 const dbConfig = {
-  host: 'localhost',
-  user: 'osorio',
-  password: '123456',
+  host: '127.0.0.2',
+  user: 'root',
+  password: '',
   database: 'estacionapp'
 };
 
