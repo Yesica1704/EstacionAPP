@@ -14,8 +14,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 1. **Clonar el repositorio:**
 
    ```sh
-   git clone https://github.com/tu-usuario/parking-app.git
-   cd estacion-app
+   git clone https://github.com/Yesica1704/EstacionAPP.git
+   cd EstacionAPP
 
 2. **Instalar dependenciaas**
 
